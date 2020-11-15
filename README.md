@@ -1,6 +1,6 @@
-# deprem_api
+# Flutter Depram Api
 
-A new Flutter project.
+![alt text](https://github.com/yunusemrecetinkaya/Flutter_Deprem_Api/blob/main/screenshots/ss.jpg?raw=true)
 
 ## Getting Started
 
