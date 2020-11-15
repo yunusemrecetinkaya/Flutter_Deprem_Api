@@ -1,6 +1,5 @@
 # Flutter Depram Api
 
-![alt text](https://github.com/yunusemrecetinkaya/Flutter_Deprem_Api/blob/main/screenshots/ss.jpg?raw=true | width=100)
 <img width="200" src="https://github.com/yunusemrecetinkaya/Flutter_Deprem_Api/blob/main/screenshots/ss.jpg">
 
 ## Getting Started
