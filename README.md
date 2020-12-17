@@ -1,4 +1,4 @@
-# Flutter Depram Api
+# Flutter Deprem Api
 
 <img width="200" src="https://github.com/yunusemrecetinkaya/Flutter_Deprem_Api/blob/main/screenshots/ss.jpg">
 
